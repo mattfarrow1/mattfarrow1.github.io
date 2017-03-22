@@ -4,11 +4,11 @@ title: About me
 subtitle: Who am I?
 ---
 
-![headshot]({{ site.url }}/img/headshot-stylized.jpg){: .center-image }
+![headshot]({{ site.url }}/img/headshot-stylized.jpg)
 
 ### Hi, I'm Matt 👋
 
-I'm a prospect researcher living in [Grapevine](https://en.wikipedia.org/wiki/Grapevine,_Texas), the [Christmas Capital of Texas](https://www.grapevinetexasusa.com/christmas-capital-of-texas/)!. I'm married to a [fundraising rockstar](https://www.linkedin.com/in/harmonie-farrow-97a29310) (at least in my humble opinion) who conveniently happens to be my best friend, and we've been married for over a decade now. We're also the parents of two amazing kids.
+I'm a prospect researcher living in [Grapevine](https://en.wikipedia.org/wiki/Grapevine,_Texas), the [Christmas Capital of Texas](https://www.grapevinetexasusa.com/christmas-capital-of-texas/)! I'm married to a [fundraising rockstar](https://www.linkedin.com/in/harmonie-farrow-97a29310) (at least in my humble opinion) who conveniently happens to be my best friend, and we've been married for over a decade now. We're also the parents of two amazing kids.
 
 Professionally, I'm the Vice President and Communications Director of [Apra North Texas](https://apranorthtexas.wildapricot.org) and I manage the chapter's [Twitter account](https://twitter.com/APRA_NT). We're a local chapter of [Apra International](http://www.aprahome.org/page/about-apra). 
 
