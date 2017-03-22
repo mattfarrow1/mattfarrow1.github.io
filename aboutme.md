@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I?
 ---
 
-![headshot]({{ site.url }}/img/headshot-stylized.jpg)
+![headshot]({{ site.url }}/img/headshot-stylized.jpg){: .center-image }
 
 ### Hi, I'm Matt 👋
 
