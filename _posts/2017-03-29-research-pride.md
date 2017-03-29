@@ -2,7 +2,7 @@
 layout: post
 title:  Research Pride
 subtitle: Why I Love Being a Part of This Community
-bigimage: /img/heart-hands.jpg
+bigimg: /img/heart-hands.jpg
 tags: [apra, pride]
 ---
 As we celebrate [#ResearchPride](https://twitter.com/search?src=typd&q=%23researchpride) month, I've been inspired to do something that I've wanted to do for ages - setup a blog - in order to share my love of this industry that has grown within me over the last four years.
