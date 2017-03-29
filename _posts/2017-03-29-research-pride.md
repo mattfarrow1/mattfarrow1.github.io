@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Research Pride
-image: /img/heart-hands.jpg
+subtitle: Why I Love Being a Part of This Community
+bigimage: /img/heart-hands.jpg
 tags: [apra, pride]
 ---
-# Research Pride
-
 As we celebrate [#ResearchPride](https://twitter.com/search?src=typd&q=%23researchpride) month, I've been inspired to do something that I've wanted to do for ages - setup a blog - in order to share my love of this industry that has grown within me over the last four years.
 
 I backed into the world of prospect development by way of the theatre[^1]. While those industries might seem worlds apart, I have found that both theatre and prospect development tend to be populated by people passionate about their work and more than willing to share their knowledge and expertise with you.
