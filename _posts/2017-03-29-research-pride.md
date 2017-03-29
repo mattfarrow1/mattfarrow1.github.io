@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Research Pride
-image: /img/heart_hands.jpeg
+image: /img/heart-hands.jpg
 tags: [apra, pride]
 ---
 # Research Pride
