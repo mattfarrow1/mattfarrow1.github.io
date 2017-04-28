@@ -16,8 +16,6 @@ We started trying to have children back in 2009. Harmonie has [PCOS](http://www.
 
 During that time we didn't feel much pressure or stress to get pregnant, however time marched on. In 2010, we moved down to Texas and considered  a [fertility specialist](http://www.fwivf.com/) that had been recommended to us. That August, five days before our appointment, Harmonie discovered she was pregnant. We went ahead and saw the doctor who confirmed the pregnancy and told us, "If you'd known I was this good, you would have called me earlier!" Nine months later our beautiful little girl was born.
 
-----------
-
 "I feel like our family is not complete."
 
 Harmonie said those words to me in the fall of early 2013. Although I felt very content with our family, she knew in her bones that we were meant to have two children. Her OB/GYN had already told her that the next time we wanted to get pregnant it would probably make sense to skip over the "see what happens" phase and jump right to professional help.
@@ -25,8 +23,6 @@ Harmonie said those words to me in the fall of early 2013. Although I felt very 
 One of the side effects of PCOS is irregular cycles. In our case, it was almost impossible for Harmonie to know when she was ovulating. On the surface, everything indicated we should be able to get pregnant, but we just couldn't.
 
 So her OB/GYN started her off on [Clomid](http://www.advancedfertility.com/clomid-pcos-treatment.htm), a very common medication that helps you ovulate at a very specific time. We had gone through two cycles of Clomid when Harmonie's mom was diagnosed with breast cancer. Between the diagnosis and the hormones which made Harmonie, in her words, very emotional, it was all too much and we decided to put a pause on trying. After her mom's surgery we picked up treatment again and went through another two rounds of that drug. 
-
------
 
 The Friday before Memorial Day Weekend in 2014, Harmonie called me and told me she was pregnant! After all we'd done we were so excited to be expanding our family, although terrified at the financial burden of having two children in daycare. 
 
