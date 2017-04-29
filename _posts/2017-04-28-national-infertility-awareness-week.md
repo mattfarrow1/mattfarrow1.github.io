@@ -40,7 +40,7 @@ The following July, right after the Fourth of July weekend, our son was born. Af
 
 One of the absolutely incredible things that has come out of this experience is the realization of just how many women and couples struggle with infertility. It seems like as soon as we cracked open the door every other person we talked to had their own story.
 
-Harmonie recalled a birthday party we attended while she was pregnant with our son. As the parents talked they realized that of the seven children at the party (plus one on the way), four were conceived through IVF, three through IUI, and three were conceived naturally. 
+Harmonie recalled a birthday party we attended while she was pregnant with our son. As the parents talked they realized that of the nine children at the party (plus one on the way), four were conceived through IVF, three through IUI, and three were conceived naturally. 
 
 ### Other Links
 Casey Liss wrote a [great post](https://www.caseyliss.com/2017/4/26/national-infertility-awareness-week) and collected several other reader's stories on his site. 
@@ -48,3 +48,6 @@ Casey Liss wrote a [great post](https://www.caseyliss.com/2017/4/26/national-inf
 Also launched this week is an amazing looking service called [Fruitful](https://www.fruitfulfertility.org/).
 
 >Fear. Frustration. Financial stress. Each aspect of infertility sucks. But the worst part is feeling isolated; like no one understands what you're going through. That's why we created Fruitful. A free mentorship program where those beginning their fertility journey are matched with a supportive individual who's experienced it firsthand.
+
+### Update from Harmonie
+We've been very pleased to see how many people have read this post. Our hope was to help start a conversation about the emotional toll this can have on a woman (her spouse, and her marriage) when she feels incapable of of doing what her body was designed to do. There are feelings of complete helplessness, failure and isolation.  Hopefully by sharing our story, we can at least help others overcome the feeling of isolation. We are not alone!
