@@ -3,10 +3,10 @@ layout: page
 title: About me
 subtitle: Who am I?
 ---
-
+{: .center}
 ![headshot]({{ site.url }}/img/headshot-stylized.jpg)
 
-### Hi, I'm Matt 👋
+### Hi, I'm Matt.
 
 I'm a prospect researcher living in [Grapevine](https://en.wikipedia.org/wiki/Grapevine,_Texas), the [Christmas Capital of Texas](https://www.grapevinetexasusa.com/christmas-capital-of-texas/)! I'm married to a [fundraising rockstar](https://www.linkedin.com/in/harmonie-farrow-97a29310) (at least in my humble opinion) who conveniently happens to be my best friend, and we've been married for over a decade now. We're also [blessed to be the parents of two amazing kids](http://mattfarrow.org/2017-04-28-national-infertility-awareness-week/).
 
