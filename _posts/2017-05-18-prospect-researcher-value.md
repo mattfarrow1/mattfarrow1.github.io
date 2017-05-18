@@ -15,4 +15,4 @@ In addition to walking through what she calls a "typically untypical week" (I lo
 
 > I’ve changed my mind. I think prospect researchers are worth a million bucks. #ResearchPride
 
-Check out the rest of the post and subscribe to [The Helen Brown Group's](https://www.helenbrowngroup.com/) blog via RSS, email, or Twitter. They post amazing work on a regular basis and I can't say enough great things about them!
+[Check out the rest of the post](https://www.helenbrowngroup.com/how-much-is-a-good-prospect-researcher-worth/) and subscribe to [The Helen Brown Group's](https://www.helenbrowngroup.com/) blog via RSS, email, or Twitter. They post amazing work on a regular basis and I can't say enough great things about them!
