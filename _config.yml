@@ -113,7 +113,7 @@ title-separator: "-"
 timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 kramdown:

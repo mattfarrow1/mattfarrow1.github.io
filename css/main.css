@@ -685,3 +685,13 @@ td.gutter {
 .center {
   text-align: center;
 }
+
+/* Add captions to images */
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 2;
+    }
+}

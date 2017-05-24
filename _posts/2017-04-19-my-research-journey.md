@@ -18,7 +18,7 @@ I left that job and spent some time as a stay-at-home dad trying to figure out w
 
 In what I have to think of as a divine plan, I came to interview here at [Southern Methodist University](http://www.smu.edu/) and found out my future boss was a former [stage manager](https://en.wikipedia.org/wiki/Stage_management). She understood the training and experience I'd had and during my interview told me, "I can teach you how to do research. What I can't teach you is how to think." She understood what skills I could bring to the table and took a chance on hiring me.
 
-The rest, as they say, is history. Today I can't imagine my life doing anything else. I [love this field](http://mattfarrow.org/2017-03-29-research-pride/) and I love helping my clients succeed in their work.
+The rest, as they say, is history. Today I can't imagine my life doing anything else. I [love this field]({{ site.baseurl }}{% link _posts/2017-03-29-research-pride.md %}) and I love helping my clients succeed in their work.
 
 [^1]: I ascribe to the position that theatre is the craft or art form and theater is the venue.
 
