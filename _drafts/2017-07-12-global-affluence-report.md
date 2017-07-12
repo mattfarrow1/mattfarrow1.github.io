@@ -5,7 +5,7 @@ link: http://www.sothebysrealty.com/extraordinary-living-blog/global-affluence-t
 tags: [apra]
 ---
 
-At some point this year I started adding more prospect research blogs to my [RSS reader](https://feedbin.com/). I find RSS much quicker, especially for these sorts of feeds, to sort through and pick out interesting articles to [share](link to Apra NTX post).
+At some point this year I started adding more prospect research blogs to my [RSS reader](https://feedbin.com/). I find RSS much quicker, especially for these sorts of feeds, to sort through and pick out interesting articles to [share]({{ site.baseurl }}{% link _posts/2017-05-05-apra-north-texas.md %}).
 
 One of the feeds I added was [Sotheby's Extraordinary Living](http://www.sothebysrealty.com/extraordinary-living-blog/) blog which offers an interesting (and fun!) look inside the world of some of our top prospects. Recently they published a report titled "Global Affluence: The Emerging Luxury Consumer."
 
