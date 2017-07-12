@@ -689,9 +689,12 @@ td.gutter {
 /* Add captions to images */
 .image-wrapper {
     text-align: center;
+    font-style: italic;
+    font-size: 90%;
+    margin: 0.5em;
+    padding: 0.5em;
 
     .image-caption {
         color: $grey-color;
-        margin-top: $spacing-unit / 2;
     }
 }
