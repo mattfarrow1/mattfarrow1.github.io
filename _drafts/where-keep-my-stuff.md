@@ -4,7 +4,7 @@ title:  Where I Keep My Stuff
 tags: [setup, iPad]
 ---
 
-As I filed some receipts recently, I realized my setup has changed quite a bit over the last couple of months as I prepared to move to the iPad as my [primary computer]({{ site.baseurl }}{%link _posts/filename.md %}). I thought I'd spend a few minutes outlining where everything lives as a reference for myself as well as for anyone who was curious.
+As I filed some receipts recently, I realized my setup has changed quite a bit over the last couple of months as I prepared to move to the iPad as my [primary computer]({{ site.baseurl }}{%link _posts/2017-06-17-ipad-pro.md %}). I thought I'd spend a few minutes outlining where everything lives as a reference for myself as well as for anyone who was curious.
 
 {: .center}
 ![Where's My Stuff]({{ site.url }}/img/where-my-stuff-lives.png)
