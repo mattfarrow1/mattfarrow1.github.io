@@ -14,7 +14,7 @@ I'd started writing a longer post about my love of Ogunquit, and I may still do 
 
 Over the years, we've noticed that sometimes stores and restaurants that we'd loved had closed in the intervening years between trips. Collectively, we'd go through a sort of grieving process – lamenting a restaurant or store's closing, sharing the memories we had of said establishment, maybe visiting the one that had replaced it, and commenting on how much things had changed. 
 
-Recently, my father-in-law was down in Grapevine staying with us and mentioned that our favorite breakfast place, [Amore Breakfast](http://amorebreakfast.com), had moved. I thought their last location was great, so I pulled up their website to see where'd they'd relocated to.
+Recently, my father-in-law was down in Grapevine staying with us and mentioned that our favorite breakfast place, [Amore Breakfast](http://amorebreakfast.com), had moved. I thought their last location was great, so I pulled up their website to see where they'd relocated to.
 
 {: .center}
 ![amore closing]({{ site.url }}/img/amore-closing.jpeg)
