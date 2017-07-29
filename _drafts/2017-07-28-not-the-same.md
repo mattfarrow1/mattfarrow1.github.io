@@ -25,7 +25,7 @@ There are a handful of restaurants that I'd consider staples of Ogunquit, places
 
 Thinking about Amore's closing, makes me think of another, more profound, loss we'll be experiencing during our trip this year. For those that don't know, my mother-in-law, [Sandy](http://www.legacy.com/obituaries/wickedlocal-watertown/obituary.aspx?pid=183006156), lost a hard-fought battle with breast cancer last December. 
 
-When we were in Ogunquit last year, I think we all knew in the back of our minds that this could be the last time we were all up there, but none of us wanted to believe it. When we return this year, our joy at being in one of our favorite places in the world will be tempered by the loss of a dear family member.
+When we were in Ogunquit last year, Sandy was so excited to have the whole family together, including her newest grandchild and her son's girlfiend. When we return this year, our joy at being in one of our favorite places in the world will be tempered by the loss of a dear family member.
 
 So many things that we do during the week are wrapped up in memories of Sandy:
 
