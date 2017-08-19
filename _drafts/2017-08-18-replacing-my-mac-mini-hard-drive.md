@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Replacing My Mac mini Hard Drive
-bigimg: /img/mac-min-press.jpeg
+bigimg: /img/mac-mini-press.jpg
 tags: [macOS, repair]
 ---
 Before we went on vacation, our late-2012 Mac mini gave me an error as I was trying to complete a backup using [Carbon Copy Cloner][1], a program I use to duplicate both the Mac's hard drive as well as our external media drive that contains our Photos and iTunes libraries. 
@@ -13,7 +13,7 @@ I was inspired by [Jason Snell][2] and [Katie Floyd's][3] attempts at this upgra
 Last night, after the kids went to bed, I sat down at the kitchen table with my Mac, iPad to follow the instructions, and tools and dove in.
 
 {: .center}
-![Ready to Go]({{ site.url }}/img/mac-mini-hd-replacement.jpeg)
+![Ready to Go]({{ site.url }}/img/mac-mini-hd-replacement.jpg)
 
 iFixit's guides walk you through the repair step-by-step, with clear, concise instructions. They also include notes from other people who've attempted the repair which I found incredibly helpful as I was trying to re-seat the antenna plate at the end and it just wouldn't line up correctly. 
 
