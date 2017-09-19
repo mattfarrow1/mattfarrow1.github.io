@@ -3,6 +3,7 @@ layout: post
 title:  National Infertility Awareness Week
 subtitle:  our struggle to conceive
 bigimg: /img/fertility-story.jpeg
+redirect_from: "/2017-04-28-national-infertility-awareness-week/"
 tags: [parenting]
 ---
 
