@@ -4,7 +4,7 @@ title:  Iceland just made it illegal to pay men more than women for the same job
 link: https://www.fastcompany.com/40512507/iceland-just-made-it-illegal-to-pay-men-more-than-women-for-the-same-job
 ---
 
-A few weeks I shared as article on the Apra North Texas Twitter feed regarding Iceland's new law making it illegal to pay different salaries based on gender. 
+A few weeks I shared an article on the Apra North Texas [Twitter feed](https://twitter.com/APRA_NT) regarding Iceland's new law making it illegal to pay different salaries based on gender. 
 
 > Companies will have to undergo certification every three years to ensure that their pay policies follow the rules. Those that fail to prove pay parity will face fines.
 
