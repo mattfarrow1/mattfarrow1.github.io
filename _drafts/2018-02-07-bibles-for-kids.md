@@ -19,7 +19,7 @@ When our kids were born, we adopted a tradition from some friends of ours of say
 {% include image.html
 	        img="img/kids_bibles/bible_baby.jpg"
 	        title="Baby Bible Storybook"
-	        caption="The Baby Bible Storybook" %}
+	        caption="The Baby Bible Storybook / David C. Cook" %}
 
 I have no idea why there are versions of this bible for boys and girls. Gender stereotypes aside, this is a really gentle introduction to the Bible for young children. Each page contains 3-4 short thoughts about the story, each followed by a simple action to help engage the child. For example:
 
@@ -33,7 +33,7 @@ The page ends with a very simple prayer related to the story. A full-page illust
 {% include image.html
 	        img="img/kids_bibles/bible_beginners.jpg"
 	        title="The Beginner's Bible"
-	        caption="The Beginner's Bible" %}
+	        caption="The Beginner's Bible / Zonderkidz" %}
 
 We received this Bible when our youngest was born from our Sunday School teachers at the time. We’re currently reading this version at night with our two-year old. Each story takes up a handful of pages, and I’d estimate that each page has about 40 words on it. The stories move quickly and each page has a full-color illustration to accompany it. 
 
@@ -44,7 +44,7 @@ Two Christmas' ago, we were making up a list of Christmas gift ideas for our dau
 {% include image.html
 	        img="img/kids_bibles/bible_storybook.jpg"
 	        title="The Jesus Storybook Bible"
-	        caption="The Jesus Storybook Bible" %}
+	        caption="The Jesus Storybook Bible / Zonderkidz" %}
 
 > There are lots of stories in the Bible. But all the stories are telling one big story. The story of how God loves his children and comes to rescue them.
 
@@ -55,7 +55,7 @@ By the time we finished up the Jesus Storybook Bible with our daughter, I began 
 {% include image.html
 	        img="img/kids_bibles/bible_ology.jpg"
 	        title="The Ology"
-	        caption="The Ology" %}
+	        caption="The Ology / New Growth Press" %}
 
 In a recent post on [Tools and Toys](http://toolsandtoys.net/the-ology-ancient-truths-ever-new/), Bradley Chambers shared a recommendation for a book called "[The Ology: Ancient Truths, Ever New](https://www.amazon.com/Ology-Ancient-Truths-Ever-New/dp/194257228X)." Bradley writes:
 
