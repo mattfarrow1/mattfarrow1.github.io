@@ -31,7 +31,7 @@ The page ends with a very simple prayer related to the story. A full-page illust
 [The Beginner’s Bible: Timeless Children’s Stories](https://www.amazon.com/Beginners-Bible-Timeless-Childrens-Stories/dp/1781283478/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 
 {% include image.html
-	        img="img/kids_bibles/bible_beginners.jpeg"
+	        img="img/kids_bibles/bible_beginners.jpg"
 	        title="The Beginner's Bible"
 	        caption="The Beginner's Bible" %}
 
@@ -42,7 +42,7 @@ We received this Bible when our youngest was born from our Sunday School teacher
 Two Christmas' ago, we were making up a list of Christmas gift ideas for our daughter. One idea was to get her a new Bible, and in the course of my research, I came across the  [Jesus Storybook Bible](https://www.sallylloyd-jones.com/books/jesus-storybook-bible/). This Bible is a little different from the others we'd had over the years. In addition to telling the stories of the Bible, each story shares a message showing how it points to God's ultimate plan, His great rescue.
 
 {% include image.html
-	        img="img/kids_bibles/bible_storybook.jpeg"
+	        img="img/kids_bibles/bible_storybook.jpg"
 	        title="The Jesus Storybook Bible"
 	        caption="The Jesus Storybook Bible" %}
 
@@ -53,7 +53,7 @@ By the time we finished up the Jesus Storybook Bible with our daughter, I began 
 ## A Final Thought
 
 {% include image.html
-	        img="img/kids_bibles/bible_ology.jpeg"
+	        img="img/kids_bibles/bible_ology.jpg"
 	        title="The Ology"
 	        caption="The Ology" %}
 
