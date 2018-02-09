@@ -10,7 +10,7 @@ In addition to their regular bedtime stories, we try and read the Bible to our k
 
 When our kids were born, we adopted a tradition from some friends of ours of saying a blessing over our children at night before they went to sleep.
 
-> "The Lord bless you and keep you; the Lord make his face shine upon your and be gracious to you; the Lord turn his face toward you and give you peace." Numbers 6:24-26
+> "The Lord bless you and keep you; the Lord make his face shine upon you and be gracious to you; the Lord turn his face toward you and give you peace." Numbers 6:24-26
 
 ### Toddlers
 
@@ -39,7 +39,9 @@ We received this Bible when our youngest was born from our Sunday School teacher
 
 ### Kingergarten/First Grade
 
-Two Christmas' ago, we were making up a list of Christmas gift ideas for our daughter. One idea was to get her a new Bible, and in the course of my research, I came across the  [Jesus Storybook Bible](https://www.sallylloyd-jones.com/books/jesus-storybook-bible/). This Bible is a little different from the others we'd had over the years. In addition to telling the stories of the Bible, each story shares a message showing how it points to God's ultimate plan, His great rescue.
+[The Jesus Storybook Bible](https://www.sallylloyd-jones.com/books/jesus-storybook-bible/)
+
+Two Christmas' ago, we were making up a list of Christmas gift ideas for our daughter. One idea was to get her a new Bible, and in the course of my research, I came across the Jesus Storybook Bible. This Bible is a little different from the others we'd had over the years. In addition to telling the stories of the Bible, each story shares a message showing how it points to God's ultimate plan, His great rescue.
 
 {% include image.html
 	        img="img/kids_bibles/bible_storybook.jpg"
@@ -48,7 +50,7 @@ Two Christmas' ago, we were making up a list of Christmas gift ideas for our dau
 
 > There are lots of stories in the Bible. But all the stories are telling one big story. The story of how God loves his children and comes to rescue them.
 
-By the time we finished up the Jesus Storybook Bible with our daughter, I began to worry that hearing the same stories night after night might lead her to push back against the idea of hearing the Word each day. For years, Harmonie has read Jesus Calling, collection of 365 devotionals for the year. We recently discovered that their is an app version of the book and that discovery led us to find Jesus Calling for Kids. This devotional uses the same verses **(true?)** as the adult's version, but tells the devotional in such a way that kids can understand the message. We now end each day with our oldest reading the day's devotional before we say the blessing. 
+By the time we finished up the Jesus Storybook Bible with our daughter, I began to worry that hearing the same stories night after night might lead her to push back against the idea of hearing the Word each day. For years, Harmonie has read Jesus Calling, collection of 365 devotionals for the year. We recently discovered that there is an app version of the book and that discovery led us to find Jesus Calling for Kids. This devotional uses many of the same verses as the adult's version, but tells the devotional in such a way that kids can understand the message. We now end each day with our oldest reading the day's devotional before we say the blessing. 
 
 ## A Final Thought
 
