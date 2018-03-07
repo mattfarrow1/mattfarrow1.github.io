@@ -1,0 +1,123 @@
+# Combining Drop Down Lists with VLOOKUP
+
+---
+layout: post
+title:  Combining Drop-Down Lists with VLOOkUP
+tags: [excel]
+---
+
+Responding to a question on Twitter, I was asked how to have an email address be automatically populated when a name was selected from a dropdown menu. 
+
+{: .center}
+![]({{ site.url }}/img/vlookup/1.png)
+
+My answer was to use the VLOOKUP formula—which coincidentally I'd just covered last fall at our annual Apra North Texas conference. I'll write that presentation up at some point in the future.
+
+I won't cover how to build a drop-down menu in this post, but [here is a link](https://support.office.com/en-us/article/create-a-drop-down-list-7693307a-59ef-400a-b769-c5402dce407b) to Microsoft support document detailing their creation.
+
+### Building the Formula
+
+I'll be using Excel for this post, but the same steps should work similarly in Google Sheets.
+
+Before we can get started, we need a reference list that contains all of the possible data that we might want to populate. In this example, we want an email address, hourly rate, and the contractor's state.
+
+{: .center}
+![]({{ site.url }}/img/vlookup/0.png)
+
+This table could be somewhere on your main sheet, but I prefer to stick it off on its own sheet and label it as "Reference" so I'm not accidentally messing with it. 
+
+Then, we flip back over to the sheet that contains our drop-down menu. In the column where you want to populate the email address, we'll use a VLOOKUP formula in cell B2 to look at the name we selected from the drop-down and then go grab the appropriate email address and hourly rate.
+
+{: .center}
+![]({{ site.url }}/img/vlookup/2.png)
+
+The structure for the VLOOKUP formula is as follows:
+
+`=VLOOKUP(Value we want to match, Range to look for that value, Column to return, whether the match should be exact or not)`
+
+{: .center}
+![]({{ site.url }}/img/vlookup/3.png)
+
+In this example, our formula will read as follows:
+
+`=VLOOKUP(A2,Reference!A1:D11,2,FALSE)`
+
+{: .center}
+![]({{ site.url }}/img/vlookup/4.png)
+
+What we're asking Excel to do in cell B2 is simply:
+- Look at cell A1 and then go find that same exact value in the table on the Reference sheet somewhere in the range A1:D11.
+- Once you've found that match, give me the value that is in column 2 on the Reference table (in this case, the email address.)
+
+{: .center}
+![]({{ site.url }}/img/vlookup/5.png)
+
+Voila!
+
+This looks like it will work perfectly. Now, if simply I copy and paste the formula down the list, something perhaps a little unintuitive will happen. (For this example, I've turned on "Show Formulas" for clarity.)
+
+{: .center}
+![]({{ site.url }}/img/vlookup/6.png)
+
+Did you notice what happened?
+
+The first part of the formula looks good. As we move down, we want Excel to shift down with us to look at each new name. However, in the second part of the formula — the one where we define the reference table — Excel has tried to help us by shifting the boundaries of the reference table down as well. Now the problem will become Excel won't be able to find the lookup value in the reference table.
+
+In this case, Excel is trying to be helpful. We've defined all of our values as relative values, meaning Excel will try and shift them appropriately as we copy and paste them. In this case, we want the lookup range to shift down a row each time we copy it, but we never want the reference table to shift. 
+
+The solution is to convert the reference table into what is known as an absolute value, meaning no matter what we do — don't ever change. In this case, we change:
+
+`=VLOOKUP(A2,Reference!A1:D11,2,FALSE)`
+
+Into:
+
+`=VLOOKUP(A2,Reference!$A$1:$D$11,2,FALSE)`
+
+{: .center}
+![]({{ site.url }}/img/vlookup/7.png)
+
+While this looks complicated, all we've done is told Excel, "Whenever you see a `$` sign, leave the following value alone, no matter what I do. 
+
+Observant readers might wonder why I put `$` signs in front of both the letter and number and not one in front of the letter/number pairing. The answer is is, we can get very granular about what we have Excel lock down for us. In our example, we're using `A2` as our lookup value. Right now it works perfectly when we copy our formula down to the next row. But what about if we copied it to the next column over — say in the case of looking up the Rate/Hr.?
+
+Well, Excel is going to again try and be helpful and will change `A2` to `B2` on you. We can solve this problem by updating our original formula to `$A2`. Now, Excel will always reference the cell in the first (`A`) column, but will shift down relatively as we copy the formula down the page. 
+
+So let's go ahead and update our formula to populate the email address and hourly rate for all of our contractors as we fill them in:
+
+{: .center}
+![]({{ site.url }}/img/vlookup/8.png)
+
+This looks terrific and would solve the problem that was originally asked. 
+
+### A Slight Hiccup
+
+As I mentioned, the formula works great, but what happens when a contractor's name hasn't been selected in the drop-down? 
+
+{: .center}
+![]({{ site.url }}/img/vlookup/11.png)
+
+Well that's not very helpful. 
+
+### Combining Formulas
+
+So what's the solution? After thinking it over, I decided that the cleanest solution would be to wrap our `VLOOKUP` formula inside of an `IF` formula. An `IF` formula simply asks, "If this situation exists, then do `X`. If no, do `Y`."
+
+`=IF(Logical Test, Value if True, Value if False)`
+
+Now, we can tell Excel, look at the column containing the name of the contractors. If that field is blank, don't do anything. If it isn't blank, execute our original `VLOOKUP`. Here's what that looks like:
+
+`=IF($A2,="","",VLOOKUP($A2,Reference!$A$1:$D$11,2,FALSE))`
+
+{: .center}
+![]({{ site.url }}/img/vlookup/12.png)
+
+Now our cells look blank if no contractor has been filled in, but as soon as we do, the remaining cells populate as well. 
+
+{: .center}
+![]({{ site.url }}/img/vlookup/13.png)
+
+{: .center}
+![]({{ site.url }}/img/vlookup/14.png)
+
+{: .center}
+![]({{ site.url }}/img/vlookup/15.png)
