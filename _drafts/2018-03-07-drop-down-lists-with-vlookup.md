@@ -7,7 +7,7 @@ tags: [excel]
 Responding to a question on Twitter, I was asked how to have an email address be automatically populated when a name was selected from a dropdown menu. 
 
 {: .center}
-![]({{ site.url }}/img/vlookup/1.png)
+![]({{ site.url }}/img/vlookup/1.jpg)
 
 My answer was to use the VLOOKUP formula—which coincidentally I'd just covered last fall at our annual Apra North Texas conference. I'll write that presentation up at some point in the future.
 
@@ -20,42 +20,42 @@ I'll be using Excel for this post, but the same steps should work similarly in G
 Before we can get started, we need a reference list that contains all of the possible data that we might want to populate. In this example, we want an email address, hourly rate, and the contractor's state.
 
 {: .center}
-![]({{ site.url }}/img/vlookup/0.png)
+![]({{ site.url }}/img/vlookup/2.jpg)
 
 This table could be somewhere on your main sheet, but I prefer to stick it off on its own sheet and label it as "Reference" so I'm not accidentally messing with it. 
 
 Then, we flip back over to the sheet that contains our drop-down menu. In the column where you want to populate the email address, we'll use a VLOOKUP formula in cell B2 to look at the name we selected from the drop-down and then go grab the appropriate email address and hourly rate.
 
 {: .center}
-![]({{ site.url }}/img/vlookup/2.png)
+![]({{ site.url }}/img/vlookup/3.jpg)
 
 The structure for the VLOOKUP formula is as follows:
 
 `=VLOOKUP(Value we want to match, Range to look for that value, Column to return, whether the match should be exact or not)`
 
 {: .center}
-![]({{ site.url }}/img/vlookup/3.png)
+![]({{ site.url }}/img/vlookup/4.jpg)
 
 In this example, our formula will read as follows:
 
 `=VLOOKUP(A2,Reference!A1:D11,2,FALSE)`
 
 {: .center}
-![]({{ site.url }}/img/vlookup/4.png)
+![]({{ site.url }}/img/vlookup/5.jpg)
 
 What we're asking Excel to do in cell B2 is simply:
 - Look at cell A1 and then go find that same exact value in the table on the Reference sheet somewhere in the range A1:D11.
 - Once you've found that match, give me the value that is in column 2 on the Reference table (in this case, the email address.)
 
 {: .center}
-![]({{ site.url }}/img/vlookup/5.png)
+![]({{ site.url }}/img/vlookup/6.jpg)
 
 Voila!
 
 This looks like it will work perfectly. Now, if simply I copy and paste the formula down the list, something perhaps a little unintuitive will happen. (For this example, I've turned on "Show Formulas" for clarity.)
 
 {: .center}
-![]({{ site.url }}/img/vlookup/6.png)
+![]({{ site.url }}/img/vlookup/7.jpg)
 
 Did you notice what happened?
 
@@ -72,7 +72,7 @@ Into:
 `=VLOOKUP(A2,Reference!$A$1:$D$11,2,FALSE)`
 
 {: .center}
-![]({{ site.url }}/img/vlookup/7.png)
+![]({{ site.url }}/img/vlookup/8.jpg)
 
 While this looks complicated, all we've done is told Excel, "Whenever you see a `$` sign, leave the following value alone, no matter what I do. 
 
@@ -83,7 +83,7 @@ Well, Excel is going to again try and be helpful and will change `A2` to `B2` on
 So let's go ahead and update our formula to populate the email address and hourly rate for all of our contractors as we fill them in:
 
 {: .center}
-![]({{ site.url }}/img/vlookup/8.png)
+![]({{ site.url }}/img/vlookup/9.jpg)
 
 This looks terrific and would solve the problem that was originally asked. 
 
@@ -92,7 +92,7 @@ This looks terrific and would solve the problem that was originally asked.
 As I mentioned, the formula works great, but what happens when a contractor's name hasn't been selected in the drop-down? 
 
 {: .center}
-![]({{ site.url }}/img/vlookup/11.png)
+![]({{ site.url }}/img/vlookup/10.jpg)
 
 Well that's not very helpful. 
 
@@ -107,15 +107,15 @@ Now, we can tell Excel, look at the column containing the name of the contractor
 `=IF($A2,="","",VLOOKUP($A2,Reference!$A$1:$D$11,2,FALSE))`
 
 {: .center}
-![]({{ site.url }}/img/vlookup/12.png)
+![]({{ site.url }}/img/vlookup/11.jpg)
 
 Now our cells look blank if no contractor has been filled in, but as soon as we do, the remaining cells populate as well. 
 
 {: .center}
-![]({{ site.url }}/img/vlookup/13.png)
+![]({{ site.url }}/img/vlookup/12.jpg)
 
 {: .center}
-![]({{ site.url }}/img/vlookup/14.png)
+![]({{ site.url }}/img/vlookup/13.jpg)
 
 {: .center}
-![]({{ site.url }}/img/vlookup/15.png)
+![]({{ site.url }}/img/vlookup/14.jpg)
