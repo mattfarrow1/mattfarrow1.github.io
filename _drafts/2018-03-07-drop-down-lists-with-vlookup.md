@@ -1,5 +1,3 @@
-# Combining Drop Down Lists with VLOOKUP
-
 ---
 layout: post
 title:  Combining Drop-Down Lists with VLOOkUP
