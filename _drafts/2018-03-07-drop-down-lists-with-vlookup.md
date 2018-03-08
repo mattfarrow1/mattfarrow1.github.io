@@ -43,8 +43,8 @@ In this example, our formula will read as follows:
 {: .center}
 ![]({{ site.url }}/img/vlookup/5.jpg)
 
-What we're asking Excel to do in cell B2 is simply:
-- Look at cell A1 which, in this case, lists the name "Guillermo" and then go find that same name in the table on the Reference sheet somewhere in the range A1:D11. The "false" at the end of the formula tells Excel that we want an exact match to the name, not an approximate match.
+What we're asking Excel to do in cell `B2` is simply:
+- Look at cell `A2` which, in this case, lists the name "Guillermo" and then go find that same name in the table on the Reference sheet somewhere in the range `A1:D11`. The `false` at the end of the formula tells Excel that we want an exact match to the name, not an approximate match.
 - Once you've found a match, give me the value that is in column 2 on the Reference table (in this case, the email address.)
 
 {: .center}
@@ -89,11 +89,11 @@ Let's go ahead and update our formula to populate the email address and hourly r
 
 Well, that's not very pretty. 
 
-### Combining Formulas
-
 Although the structure of the table works, it isn't very visually pleasing to look at a long list of `#N/A` cells where we haven't defined a contractor. Obviously, we won't be filling in every row on this sheet — we've left ourselves room based on how many contractors are working on this project. 
 
-So how to get clean this up?
+So how do we clean this up?
+
+### Combining Formulas
 
 After thinking it over, I decided that the cleanest[^1] solution would be to wrap our `VLOOKUP` formula inside of an `IF` formula. An `IF` formula simply asks, "If this situation exists, then do `X`. If not, do `Y`."
 
