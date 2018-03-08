@@ -4,7 +4,7 @@ title:  Combining Drop-Down Lists with VLOOKUP
 tags: [excel]
 ---
 
-I saw a question on Twitter about someone could, in Google Sheets, have a sheet auto-populate information based on a name that was chosen from a drop-down menu. In this case, the request was to have an email address automatically populate, but this could work for any piece of data. 
+I saw a question on Twitter about whether someone could, in Google Sheets, have a sheet auto-populate information based on a name that was chosen from a drop-down menu. In this case, the request was to have an email address automatically populate, but this could work for any piece of data. 
 
 {: .center}
 ![]({{ site.url }}/img/vlookup/1.jpg)
