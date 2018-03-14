@@ -9,6 +9,6 @@ Happy [Pi Day](http://www.piday.org)! In honor of today, I thought I’d share s
 {% include image.html
             img="img/teeny_pies.jpg"
             title="Teeny Pies"
-            caption="[@teenypies on Instagram" %}
+            caption="@teenypies on Instagram" %}
 
 Visit her [site](https://www.teenypies.com) to read her blog, order pies, or learn more about her cookbook!
