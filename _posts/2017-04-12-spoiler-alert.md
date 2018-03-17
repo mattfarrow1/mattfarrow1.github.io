@@ -3,6 +3,7 @@ layout: post
 title:  Spoiler Alert?
 subtitle: Balancing Spoilers as a Parent 
 bigimg: /img/tv-movie.jpg
+redirect_from: "/2017-04-12-spoiler-alert/"
 tags: [parenting]
 ---
 

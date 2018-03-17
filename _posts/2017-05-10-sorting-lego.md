@@ -2,6 +2,7 @@
 layout: post
 title:  Sorting Two Metrics Tons of LEGO
 link: https://jacquesmattheij.com/sorting-two-metric-tons-of-lego
+redirect_from: "/2017-05-10-sorting-lego/"
 tags: [lego]
 ---
 I love LEGO, but price, storage, and organization considerations keep me from investing too much in it. Jacques Mattheij did something I've heard suggested before - buy LEGO in bulk. However he ended up with a little more than he bargained for. 

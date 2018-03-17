@@ -2,6 +2,7 @@
 layout: post
 title:  Managing Social Media for Apra North Texas
 bigimg: /img/newspaper.jpg
+redirect_from: "/2017-05-05-apra-north-texas/"
 tags: [apra]
 ---
 

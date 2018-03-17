@@ -2,6 +2,7 @@
 layout: post
 title:  How much is a good prospect researcher worth?
 link: https://www.helenbrowngroup.com/how-much-is-a-good-prospect-researcher-worth/
+redirect_from: "/2017-05-18-prospect-researcher-value/"
 tags: [apra, pride]
 ---
 

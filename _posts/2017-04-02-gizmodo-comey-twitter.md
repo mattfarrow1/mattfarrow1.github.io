@@ -3,6 +3,7 @@ layout: post
 title:  Where Are Thou Comey?
 subtitle: What can Gizmodo's piece teach us about research?
 bigimg: /img/laptop-hands.jpg
+redirect_from: "/2017-04-02-gizmodo-comey-twitter/"
 tags: [apra, pride]
 ---
 A Gizmodo piece entitled ["This Is Almost Certainly James Comey’s Twitter Account"](http://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641) went around social media this week. The headline was certainly catchy and several people I follow expressed admiration for the effort and train of thought that went into collecting a series of seemingly disparate threads into a reasonable conclusion. 

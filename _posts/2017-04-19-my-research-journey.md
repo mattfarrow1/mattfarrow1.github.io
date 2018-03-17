@@ -2,6 +2,7 @@
 layout: post
 title:  My Research Journey
 bigimg: /img/journey-1.jpg
+redirect_from: "/2017-04-19-my-research-journey/"
 tags: [apra, pride, theatre]
 ---
 When I was growing up, prospect research was not even a concept, much less a possible career path. Like many people, I backed into this career and rarely looked back. 

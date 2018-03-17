@@ -210,6 +210,7 @@ gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 collections:
   drafts:
