@@ -1,5 +1,3 @@
-# Working Mom Life
-
 ---
 layout: post
 title:  Working Mom Life
