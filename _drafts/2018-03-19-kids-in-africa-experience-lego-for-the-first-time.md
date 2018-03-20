@@ -1,5 +1,3 @@
-# Kids in Africa Experience LEGO for the First Time
-
 ---
 layout: post
 title:  Kids in Africa Experience LEGO for the First Time
