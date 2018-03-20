@@ -6,7 +6,7 @@ tags: [lego]
 
 Seeing this video brought such a smile to my face. I grew up with LEGO and sill enjoying putting a set together today.
 
-\<iframe width="560" height="315" src="https://www.youtube.com/embed/0wLIjrgXSDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen\>\</iframe\>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wLIjrgXSDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen\>\</iframe\>
 
 For more information, visit [LEGO Africa](http://legoafrica.org/).
 
