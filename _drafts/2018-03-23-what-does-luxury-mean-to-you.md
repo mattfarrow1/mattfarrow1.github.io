@@ -1,5 +1,3 @@
-# What Does Luxury Mean?
-
 ---
 layout: post
 title:  What Does Luxury Mean to You?
