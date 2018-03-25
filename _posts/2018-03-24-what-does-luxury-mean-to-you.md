@@ -13,14 +13,13 @@ Mansion Global asked, “What does luxury mean to you?” and I thought Dan’s 
 
 I love the idea of luxury as a noun. Here are a few of the things that I have the luxury of:
 
-- strong faith in God
 - an incredible spouse and two wonderful children
 - a stable job that challenges me along with a great boss
 - health insurance
 - financial stability
 - a home
 - caring and supportive extended family who live (or plan to live) close by
-- a wonderful church
+- a wonderful church family
 - a close and supportive community of friends
 
 It is so easy in this day and age to want more and more. When you sit down and think through what things you have the luxury of, it makes you realize how much you already have. 
