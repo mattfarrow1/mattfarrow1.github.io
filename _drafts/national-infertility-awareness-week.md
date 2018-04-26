@@ -9,4 +9,4 @@ April 22-28 is [National Infertility Awareness Week](https://infertilityawarenes
 
 > I felt like a failure. I am a woman; my body was created to grow tiny humans, but I couldn’t. I grieved the loss of a child that no one ever knew except me, and I dwelled in a despair that I may never have another child. Matt struggled to understand why I couldn’t just be delighted with the beautiful, amazing, smart, funny and sassy child we already had together, which made me feel emotionally distant from him and compounded my feelings of guilt that I couldn’t be happy with the family God had already blessed me with.
 
-I'd encourage you to read the rest of her post and check back later this week for a second post: "What I Want You to Know."
+I'd encourage you to read the rest of her post and check out part 2, "[What I Want You To Know](https://workingmom.life/2018/04/26/national-infertility-awareness-week-what-i-want-you-to-know/)."
