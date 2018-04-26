@@ -11,6 +11,6 @@ One month from today, the European Union's General Data Protection Regulation (G
 Early in this blog's development, I implemented Google Analytics for the site. It was already rolled into the Jekyll theme I'd chosen and it seemed to be an easy way for me to track traffic to the site. In the year or so since I started the site, I think I can count the number of times I've looked at my website's stats on one hand. I never set out to build this site for anyone but myself and don't really care how many unique page views I get, so I made the decision today to remove Google Analytics from my site entirely.
 
 {: .center}
-![](%20site.url%20/img/google-analytics.jpeg)
+![Google Analytics]({{ site.url }}/img/google-analytics.jpeg)
 
 Would I have been in violation of GDPR had I not removed it? I'm not sure, but I decided it didn't hurt. I wasn't using the data, and I don't really care about stats or page views. Removing Google Analytics just means that, when you visit the site, you can feel comfortable knowing that I'm not tracking you in any way. 
