@@ -32,7 +32,7 @@ Installation was a snap. I started by labeling the wires on the old controller. 
 I mounted the new RainMachine on the wall, trimmed the wires back several inches[^1], and started reconnecting the wires. The Mini-8 has two common wire connection points on either side of the controller that are connected together internally. Since I had three common wires, I made a short pigtail to turn two of the wires into a single wire that I could then insert in the connection point. Inserting the wires was as simple as depressing the orange pin and pushing the wire inside. I then worked my way sequentially through the each of the zones, matching up the numbered wire with the corresponding zone connection point.
 
 {% include image.html
-            img="img/sprinklers/rain-machine-inside"
+            img="img/sprinklers/rain-machine-inside.jpg"
             title="RainMachine"
             caption="RainMachine Mini-8" %}
 
@@ -67,7 +67,7 @@ The second area that you need to consider for your watering times are the option
 Finally, there are the programs themselves. For each program, you define a start time, frequency (including whether you want use the system's Adaptive Frequency), and the zone(s) you want included in the program. The software will then set a suggested duration for each zone that you can then adjust manually if you prefer. 
 
 {% include image.html
-            img="img/sprinklers/app-schedule"
+            img="img/sprinklers/app-schedule.png"
             title="Schedule"
             caption="App Schedule" %}
 
