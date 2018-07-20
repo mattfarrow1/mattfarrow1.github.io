@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sprinkler Upgrades
-bigimg: /img/grass.jpeg
 tags: [sprinkler, home]
 ---
 
