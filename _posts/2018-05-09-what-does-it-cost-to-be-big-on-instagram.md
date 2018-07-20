@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What Does It Cost To Be Big On Instagram?
+title: What Does It Cost To Be Big On Instagram?
 link: https://www.buzzfeed.com/jarrylee/what-does-it-cost-to-be-big-on-instagram
 tags: [instagram]
 ---
