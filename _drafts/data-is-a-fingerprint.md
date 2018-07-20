@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data is a fingerprint': why you aren't as anonymous as you think online
+title: Data is a fingerprint&#58; why you aren't as anonymous as you think online
 link: https://www.theguardian.com/world/2018/jul/13/anonymous-browsing-data-medical-records-identity-privacy
 tags: [privacy, apra]
 ---
